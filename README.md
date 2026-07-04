@@ -1,3 +1,4 @@
+my first repository 
 # 🎙️ Voice-to-Voice Assistant
 
 A Python-based Voice-to-Voice AI Assistant that listens to user speech, converts it into text using Speech Recognition, sends the transcript to the OpenAI API for processing, and returns an intelligent response.
